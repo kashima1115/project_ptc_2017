@@ -1,0 +1,1 @@
+sockettsuushinはTCP、sockettsuushinudpはUDPのサンプルコードです。
